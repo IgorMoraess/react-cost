@@ -8,19 +8,21 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "116b",
-      "name": "Project-Comments",
-      "budget": "15000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
+      "cost": 8000,
+      "services": [
+        {
+          "name": "Contratar Dev front-end",
+          "cost": "3000",
+          "description": "Fazer um Design para o Site Agro",
+          "id": "65e5d09c-c6a5-4868-99af-6bcd171bb234"
+        },
+        {
+          "name": "Contratar Back-end",
+          "cost": "5000",
+          "description": "Fazer banco de Dados em MySQL para o Site cadastrar os produtos",
+          "id": "02f82ec5-ad2d-423b-a12a-21d814942a64"
+        }
+      ]
     }
   ],
   "categories": [
