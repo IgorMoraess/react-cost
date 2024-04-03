@@ -37,7 +37,7 @@ function Projects() {
                     })
                     .catch(err => console.log(err))
 
-            }, 600)
+            }, 300)
     }, [])
 
     function removeProject(id) {
